@@ -1,13 +1,8 @@
 # Kalman Filter for GPS Trajectory Estimation
 
 **Academic Exercise** | Positioning & Location-Based Services Course  
-**Politecnico di Milano** | AA 2025/2026
 
 Python implementation of a Kalman Filter to estimate position and velocity from noisy GPS observations. This project demonstrates recursive state estimation and filtering techniques for trajectory smoothing.
-
-##  Context
-
-This is **Exercise 6 (EX06)** from the **Positioning & Location-Based Services** course at Politecnico di Milano. The problem statement and dataset were provided by the instructor.
 
 ### Problem Statement
 
